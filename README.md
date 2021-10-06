@@ -14,7 +14,6 @@ src="https://miro.medium.com/max/805/1*aUSZsGFCMPNYCkQygs4aGQ.jpeg" width="80" h
 <img
 src="https://seekvectorlogo.com/wp-content/uploads/2018/12/power-bi-vector-logo.png" width="80" height="70"
 />
-
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width="70" height="60"
 />
@@ -30,7 +29,6 @@ src="https://www.firelinescience.com/wp-content/uploads/2019/09/SciPy-Logo.png" 
 <img
 src="https://repository-images.githubusercontent.com/33702544/b4400c80-718b-11e9-9f3a-306c07a5f3de" width="70" height="60"
 />
-
 <img
 src="https://p.kindpng.com/picc/s/159-1596083_python-logo-png-transparent-images-python-language-png.png" width="80" height="70"
 />
