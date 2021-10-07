@@ -6,7 +6,7 @@
 
 
 <img
-src="https://promto.com/wp-content/uploads/2019/08/icon-tableau-1.png" width="40" height="25"
+src="https://promto.com/wp-content/uploads/2019/08/icon-tableau-1.png" width="30" height="25"
 />
 <img
 src="https://miro.medium.com/max/805/1*aUSZsGFCMPNYCkQygs4aGQ.jpeg" width="40" height="25"
@@ -30,7 +30,7 @@ src="https://www.firelinescience.com/wp-content/uploads/2019/09/SciPy-Logo.png" 
 src="https://repository-images.githubusercontent.com/33702544/b4400c80-718b-11e9-9f3a-306c07a5f3de" width="40" height="25"
 />
 <img
-src="https://p.kindpng.com/picc/s/159-1596083_python-logo-png-transparent-images-python-language-png.png" width="40" height="25"
+src="https://p.kindpng.com/picc/s/159-1596083_python-logo-png-transparent-images-python-language-png.png" width="32" height="25"
 />
 <img
 src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo-black-and-white.png" width="40" height="25"
