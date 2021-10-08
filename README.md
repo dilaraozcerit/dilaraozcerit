@@ -21,10 +21,10 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" width="40" height="25"
 />
 <img
-src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" width="40" height="25"
+src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" width="35" height="25"
 />
 <img
-src="https://www.firelinescience.com/wp-content/uploads/2019/09/SciPy-Logo.png" width="40" height="25"
+src="https://www.firelinescience.com/wp-content/uploads/2019/09/SciPy-Logo.png" width="30" height="25"
 />
 <img
 src="https://repository-images.githubusercontent.com/33702544/b4400c80-718b-11e9-9f3a-306c07a5f3de" width="40" height="25"
