@@ -36,13 +36,10 @@ src="https://p.kindpng.com/picc/s/159-1596083_python-logo-png-transparent-images
 src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo-black-and-white.png" width="40" height="25"
 />
 <img
-src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" width="40" height="25"
+src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" width="30" height="25"
 />
 <img
 src="https://logodix.com/logo/1185774.png" width="40" height="25"
-/>
-<img
-src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501.png" width="40" height="25"
 />
 
 
