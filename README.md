@@ -1,8 +1,8 @@
-###                                              Hi 👋, I’m Dilara.
+###                   Hi 👋, I’m Dilara.
 
 
 
-⚙ Languages and Tools:
+⚙ Libraries, Languages and Tools:
 
 
 <img
