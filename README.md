@@ -24,7 +24,7 @@ src="https://numpy.org/images/logos/numpy.svg" width="30" height="30"
 src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" width="35" height="30"
 />
 <img
-src="https://www.firelinescience.com/wp-content/uploads/2019/09/SciPy-Logo.png" width="37" height="30"
+src="https://www.firelinescience.com/wp-content/uploads/2019/09/SciPy-Logo.png" width="43" height="30"
 />
 <img
 src="https://repository-images.githubusercontent.com/33702544/b4400c80-718b-11e9-9f3a-306c07a5f3de" width="40" height="30"
