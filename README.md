@@ -2,7 +2,7 @@
 
 
 
-Libraries, Languages and Tools:
+Libraries, Languages, and Tools:
 
 
 <img
