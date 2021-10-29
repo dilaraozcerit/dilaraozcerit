@@ -1,10 +1,10 @@
 ###                   Hi 👋, I’m Dilara.
 
-🌱 I’m currently learning Data Science
+🌱 I’m currently learning Data Science.
 
 
 <img
-src="https://miro.medium.com/max/1200/0*mxu2liLLkxOSDobh.png" width="600" height="350"
+src="https://miro.medium.com/max/1200/0*mxu2liLLkxOSDobh.png" width="500" height="280"
 />
 
 Libraries, Languages, and Tools:
