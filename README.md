@@ -3,6 +3,10 @@
 🌱 I’m currently learning Data Science
 
 
+<img
+src="https://miro.medium.com/max/1200/0*mxu2liLLkxOSDobh.png" width="600" height="350"
+/>
+
 Libraries, Languages, and Tools:
 
 
