@@ -40,9 +40,6 @@ src="https://promto.com/wp-content/uploads/2019/08/icon-tableau-1.png" width="55
 src="https://miro.medium.com/max/805/1*aUSZsGFCMPNYCkQygs4aGQ.jpeg" width="65" height="50"
 />
 <img
-src="https://seekvectorlogo.com/wp-content/uploads/2018/12/power-bi-vector-logo.png" width="65" height="50"
-/>
-<img
 src="https://logodix.com/logo/1185774.png" width="77" height="50"
 />
 <img
