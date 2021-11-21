@@ -19,9 +19,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/l
 src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" width="53" height="50"
 />
 <img
-src="https://repository-images.githubusercontent.com/33702544/b4400c80-718b-11e9-9f3a-306c07a5f3de" width="71" height="50"
-/>
-<img
 src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" width="50" height="50"
 />
 <img
