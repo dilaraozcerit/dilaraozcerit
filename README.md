@@ -21,6 +21,8 @@ src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-1
 <img
 src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" width="50" height="50"
 />
+<img src="https://camo.githubusercontent.com/f1e84bd5de9cd65001a48b338c30f6d28521284d949d4144d366d2bde1425c56/68747470733a2f2f7777772e6361696f646f6e616c6973696f2e636f6d2f7374617469632f626c6f672f706f7374732f63616465726e6f732f6d6174706c6f746c69622f636f7665722e706e67" alt="matplotlib" width="45" height="50"
+/>
 <img
 src="https://www.firelinescience.com/wp-content/uploads/2019/09/SciPy-Logo.png" width="74" height="50"
 />
@@ -34,21 +36,10 @@ src="http://www.rectanglered.com/wp-content/uploads/2013/06/Microsoft_SQL_Server
 src="https://promto.com/wp-content/uploads/2019/08/icon-tableau-1.png" width="55" height="50"
 />
 <img
-src="https://miro.medium.com/max/805/1*aUSZsGFCMPNYCkQygs4aGQ.jpeg" width="65" height="50"
-/>
-<img
-src="https://logodix.com/logo/1185774.png" width="77" height="50"
-/>
-<img
 src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" width="54" height="50"
 />
 
 
-
-
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dilaraozcerit&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--
 **dilaraozcerit/dilaraozcerit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
