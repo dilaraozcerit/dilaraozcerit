@@ -7,7 +7,8 @@
 <img align = "center"
 src="https://miro.medium.com/max/1200/0*mxu2liLLkxOSDobh.png" width="500" height="280"
 />
-
+ 
+<!--
 **Libraries, Languages, and Tools:**
 
 
@@ -38,7 +39,7 @@ src="https://promto.com/wp-content/uploads/2019/08/icon-tableau-1.png" width="55
 <img
 src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" width="54" height="50"
 />
-
+-->
 
  
 <!--
