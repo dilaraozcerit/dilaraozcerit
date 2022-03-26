@@ -25,12 +25,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 <p dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b88ee8035b1a27ce95681e4f5a4298912ac0bb2acfa8439db4d7807f1b73ae0b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d736f7a63657269742673686f775f69636f6e733d74727565266c6f63616c653d656e"><img align="center" </p>
 </article>
  
- **:mailbox: How to Reach me:**
+<!-- **:mailbox: How to Reach me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/dilara-ozcerit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="dozcerit@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
- 
+ -->
  
 <!--
 **Libraries, Languages, and Tools:**
