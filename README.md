@@ -5,7 +5,7 @@
 
  
  
- 🌱**I’m currently learning Data Science tools.**
+
  
 <img align = "center"
 src="https://miro.medium.com/max/1200/0*mxu2liLLkxOSDobh.png" width="500" height="280"
@@ -72,7 +72,7 @@ src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" width
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 
+-  🌱**I’m currently learning Data Science tools.**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
